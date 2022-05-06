@@ -1,3 +1,7 @@
+# WARNING
+
+This repo has migrated to https://github.com/cowprotocol/robot-cow-bot
+
 # Robot Cow Bot
 
 Discord BOT
